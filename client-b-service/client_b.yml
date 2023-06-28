@@ -6,3 +6,6 @@ report:
     color: white
     size: A4
 duration: all
+
+server:
+  port: 8182
